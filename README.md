@@ -1,0 +1,1 @@
+Minimal reproducible example for the stack overflow question - (Why is Type 'string' not assignable to a Union type of strings in TypeScript?)[https://stackoverflow.com/questions/79234740/why-is-type-string-not-assignable-to-a-union-type-of-strings-in-typescript]
